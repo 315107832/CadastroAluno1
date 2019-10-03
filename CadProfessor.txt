@@ -1,5 +1,7 @@
     Cadastro de Professor
 
-Matrícula:45454
+MatrÃ­cula:45454
 Nome: Renato Penha
 e-mail:renato.penha@gmail.com
+Telefone: 4419-0895
+Disciplina que leciona: C.C
