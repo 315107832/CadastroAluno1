@@ -3,5 +3,5 @@
 
 Código:5454
 Disciplina: Automação
-Curso:
+Curso: C.C
 
